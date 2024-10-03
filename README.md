@@ -14,19 +14,19 @@ Este projeto tem como objetivo consolidar conceitos de programação em C.
 
 Um compilador C, como o gcc, ou de sua preferência.
 
-##Compilação
+## Compilação
 
 Para compilar o programa, use o seguinte comando:
 
 bash gcc -o cadastro cadastro.c
 
-##Execução
+## Execução
 
 Após a compilação você pode executar o programa com:
 
 ./cadastro
 
-##Melhorias Futuras
+## Melhorias Futuras
 
 Pretendo ir implantando e o sistema de cadastros enquanto eu for compreendendo melhor a linguagem C e sua funcionalidade.
 
